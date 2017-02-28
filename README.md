@@ -6,6 +6,7 @@ Your webpage should eventually include:
 * a page heading
 * multiple paragraphs
 * an image
+* links (possibly)
 
 After each edit, scroll down and click on the button that says Commit Changes.
 
